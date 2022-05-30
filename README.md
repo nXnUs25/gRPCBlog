@@ -1,2 +1,2 @@
 # gRPCBlog
-MongoD
+MongoDB gRPC blog backend example.
